@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Будівництво будинків та будівельні роботи | bud_budynkiv_ua</title>
+    <meta name="description" content="Будівництво будинків, бетонні роботи, фундаменти, підвали, укриття, бункери, демонтаж, покрівля, паркан, вивіз сміття. Міцно, чесно, надовго.">
+    <meta name="keywords" content="будівництво будинків, фундамент, бетонні роботи, підвали, укриття, бункери, демонтаж, покрівля, паркан, вивіз сміття, Київ, Київська область">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {margin:0;font-family:Arial,sans-serif;background:#f4f4f4;color:#222;}
+        header {
+            background:linear-gradient(90deg,#0057b7,#ffd700);
+            color:#fff;
+            padding:25px 15px;
+            text-align:center;
+        }
+        header img {
+            max-height:80px;
+            margin-bottom:10px;
+        }
+        header p {margin:5px 0 0;font-size:18px;}
+        section {padding:25px 20px;max-width:1000px;margin:20px auto;background:#fff;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+        section h2 {color:#0057b7;margin-bottom:15px;}
+        ul {padding-left:20px;}
+        ul li {margin-bottom:8px;}
+        .cta {background:#0057b7;color:#fff;padding:20px;text-align:center;border-radius:6px;margin-top:20px;font-size:18px;font-weight:bold;}
+        footer {text-align:center;padding:15px;font-size:14px;color:#555;}
+        .gallery {display:flex;flex-wrap:wrap;gap:10px;}
+        .gallery img {width:calc(33% - 10px);border-radius:6px;}
+        @media(max-width:768px){.gallery img{width:calc(50% - 10px);}}
+        @media(max-width:480px){.gallery img{width:100%;}}
+    </style>
+</head>
+
+<body>
+
+<header>
+    <!-- Логотип -->
+    <img src="images/logo.png" alt="bud_budynkiv_ua">
+    <p>Міцно. Чесно. Надовго.</p>
+</header>
+
+<section>
+    <h2>Наші послуги</h2>
+    <ul>
+        <li>Будівництво приватних будинків під ключ</li>
+        <li>Бетонні роботи та фундаменти</li>
+        <li>Підвали, укриття, бункери</li>
+        <li>Демонтаж будь-якої складності</li>
+        <li>Покрівля будь-якого типу</li>
+        <li>Паркан, огорожі</li>
+        <li>Вивіз сміття та будівельного сміття</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Чому обирають нас</h2>
+    <ul>
+        <li>Досвід роботи більше 10 років</li>
+        <li>Чесні ціни без прихованих доплат</li>
+        <li>Контроль якості на кожному етапі</li>
+        <li>Робота по договору та гарантія</li>
+        <li>Реальні фото виконаних робіт</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Галерея робіт</h2>
+    <div class="gallery">
+        <img src="images/photo1.jpg" alt="Фундамент під будинок Київ">
+        <img src="images/photo2.jpg" alt="Покрівля будинку Київ">
+        <img src="images/photo3.jpg" alt="Підвал або укриття Київ">
+        <img src="images/photo4.jpg" alt="Демонтаж будівлі Київ">
+        <img src="images/photo5.jpg" alt="Паркан або огорожа Київ">
+        <img src="images/photo6.jpg" alt="Вивіз будівельного сміття Київ">
+    </div>
+</section>
+
+<section class="cta">
+    📞 Замовити дзвінок прямо зараз!  
+    <br><br>
+    Телефон / Viber / Telegram: +380XXXXXXXXX
+</section>
+
+<footer>
+    © 2026 bud_budynkiv_ua • Міцно. Чесно. Надовго.
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Будівництво будинків та будівельні роботи | bud_budynkiv_ua</title>
+    <meta name="description" content="Будівництво будинків, бетонні роботи, фундаменти, підвали, укриття, бункери, демонтаж, покрівля, паркан, вивіз сміття. Міцно, чесно, надовго.">
+    <meta name="keywords" content="будівництво будинків, фундамент, бетонні роботи, підвали, укриття, бункери, демонтаж, покрівля, паркан, вивіз сміття, Київ, Київська область">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {margin:0;font-family:Arial,sans-serif;background:#f4f4f4;color:#222;}
+        header {
+            background:linear-gradient(90deg,#0057b7,#ffd700);
+            color:#fff;
+            padding:25px 15px;
+            text-align:center;
+        }
+        header img {
+            max-height:80px;
+            margin-bottom:10px;
+        }
+        header p {margin:5px 0 0;font-size:18px;}
+        section {padding:25px 20px;max-width:1000px;margin:20px auto;background:#fff;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+        section h2 {color:#0057b7;margin-bottom:15px;}
+        ul {padding-left:20px;}
+        ul li {margin-bottom:8px;}
+        .cta {background:#0057b7;color:#fff;padding:20px;text-align:center;border-radius:6px;margin-top:20px;font-size:18px;font-weight:bold;}
+        footer {text-align:center;padding:15px;font-size:14px;color:#555;}
+        .gallery {display:flex;flex-wrap:wrap;gap:10px;}
+        .gallery img {width:calc(33% - 10px);border-radius:6px;}
+        @media(max-width:768px){.gallery img{width:calc(50% - 10px);}}
+        @media(max-width:480px){.gallery img{width:100%;}}
+    </style>
+</head>
+
+<body>
+
+<header>
+    <!-- Логотип -->
+    <img src="images/logo.png" alt="bud_budynkiv_ua">
+    <p>Міцно. Чесно. Надовго.</p>
+</header>
+
+<section>
+    <h2>Наші послуги</h2>
+    <ul>
+        <li>Будівництво приватних будинків під ключ</li>
+        <li>Бетонні роботи та фундаменти</li>
+        <li>Підвали, укриття, бункери</li>
+        <li>Демонтаж будь-якої складності</li>
+        <li>Покрівля будь-якого типу</li>
+        <li>Паркан, огорожі</li>
+        <li>Вивіз сміття та будівельного сміття</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Чому обирають нас</h2>
+    <ul>
+        <li>Досвід роботи більше 10 років</li>
+        <li>Чесні ціни без прихованих доплат</li>
+        <li>Контроль якості на кожному етапі</li>
+        <li>Робота по договору та гарантія</li>
+        <li>Реальні фото виконаних робіт</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Галерея робіт</h2>
+    <div class="gallery">
+        <img src="images/photo1.jpg" alt="Фундамент під будинок Київ">
+        <img src="images/photo2.jpg" alt="Покрівля будинку Київ">
+        <img src="images/photo3.jpg" alt="Підвал або укриття Київ">
+        <img src="images/photo4.jpg" alt="Демонтаж будівлі Київ">
+        <img src="images/photo5.jpg" alt="Паркан або огорожа Київ">
+        <img src="images/photo6.jpg" alt="Вивіз будівельного сміття Київ">
+    </div>
+</section>
+
+<section class="cta">
+    📞 Замовити дзвінок прямо зараз!  
+    <br><br>
+    Телефон / Viber / Telegram: +380XXXXXXXXX
+</section>
+
+<footer>
+    © 2026 bud_budynkiv_ua • Міцно. Чесно. Надовго.
+</footer>
+
+</body>
+</html>
